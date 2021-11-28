@@ -9,6 +9,7 @@ namespace Script {
         public Quaternion Rotation;
         public Vector3 Velocity;
         public Color Color;
+        public Vector3 AngVelocity;
 
     }
 }
